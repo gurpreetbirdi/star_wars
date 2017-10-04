@@ -1,0 +1,10 @@
+.planet-box {
+    border: 1px solid;
+    padding: 5px;
+    border-radius: 4px;
+    margin: 5px;
+    cursor: pointer;
+}
+.planet-box * {
+    cursor: pointer;
+}
