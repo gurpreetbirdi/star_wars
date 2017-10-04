@@ -43,7 +43,6 @@ const appStates = (state = {
           isFetching      : false,
           isLoggedIn      : false,
           user            : "",
-          searchCount     : 0,
           txtValue        : "",
           filteredPlanets : [],
           maxPopulation   : 0,
